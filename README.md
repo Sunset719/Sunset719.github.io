@@ -12,6 +12,3 @@ Trabalho com tecnologia desde de 2006, e possuo as seguintes formações:
 
 🌱 Atualmente estou aprendendo Python e JavaScript
 
-💬 Me pergunte sobre SQL, Google Data Studio, Power BI, Excel e Python
-
-📄 Fui fundado por Luan Porphirio e aqui estão as habilidades que me permitiram realizar https://www.linkedin.com/in/luan-porphirio/
