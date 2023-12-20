@@ -10,5 +10,5 @@ Trabalho com tecnologia desde de 2006, e possuo as seguintes formações:
 ✅Superior em Ciência da Computação  - Unicarioca | Formada em 2016.
 
 
-🌱 Atualmente estou aprendendo Python e JavaScript
+🌱 Atualmente estou aprendendo Python e JavaScript.
 
